@@ -1,6 +1,7 @@
 # Pokémon Shin Red and Blue
 
-Version 1.04 Final
+Version 1.04 Final  
+
 Note - v1.04 beta2 ips patches are considered the final 1.04 release. Beta testing will now begin on v1.05.
 
 Download the IPS patch file of the version you want and apply it to its respective USA rom.
