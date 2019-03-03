@@ -1,6 +1,6 @@
 # Pokémon Shin Red and Blue
 
-Version 1.04 beta2
+Version 1.04 Final
 
 Download the IPS patch file of the version you want and apply it to its respective USA rom.
 
