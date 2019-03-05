@@ -2,7 +2,7 @@
 
 Version 1.04 Final  
 
-Note - v1.04 beta2 ips patches are considered the final 1.04 release. Beta testing will now begin on v1.05.
+Beta testing will now begin on v1.05.
 
 Download the IPS patch file of the version you want and apply it to its respective USA rom.
 
@@ -49,6 +49,7 @@ Think of it as what the Nintendo Virtual Console re-release of red & blue might 
 - Move relearner back in place
 - Some stuff shuffled to another memory bank to free up bankE
 - Polywrath missing an evos_moves terminating zero
+- The AICheckIfHPBelowFraction now handles a fraction of 1/1, preventing giving Lorelei's dewgong tons of hp every turn
 
   
 #Bugfixes:
