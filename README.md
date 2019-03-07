@@ -20,7 +20,7 @@ Think of it as what the Nintendo Virtual Console re-release of red & blue might 
 ![Marts](/screenshots/bgb00011.bmp?raw=true)
 
 
-NOTE: There is a slight bug with turn order in this version. It is fixed in v1.05.
+NOTE: There is a slight bug with turn order and trapping moves in this version. It is fixed in v1.05.
 
 #Summary
 -----------
