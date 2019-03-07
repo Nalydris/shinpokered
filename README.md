@@ -1,4 +1,4 @@
-# Pokémon Shin Red and Blue
+# Shin Pokémon Red and Blue
 
 Version 1.04 Final  
 
@@ -19,6 +19,8 @@ Think of it as what the Nintendo Virtual Console re-release of red & blue might 
 
 ![Marts](/screenshots/bgb00011.bmp?raw=true)
 
+
+NOTE: There is a slight bug with turn order in this version. It is fixed in v1.05.
 
 #Summary
 -----------
