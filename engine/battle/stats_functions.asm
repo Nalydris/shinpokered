@@ -308,6 +308,7 @@ DetermineWildMonDVs:
 
 ;replace random mew encounters with ditto if dex diploma not gotten
 DisallowMew:
+	ret
 	CheckEvent EVENT_90B
 	ret nz
 	ld a, DITTO

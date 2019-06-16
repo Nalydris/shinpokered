@@ -1,6 +1,6 @@
 # Shin Pokémon Red and Blue
 
-Version 1.06 final
+Version 1.06 final *hotfix*
 
 Download the IPS patch file of the version you want and apply it to its respective USA rom.  
 
@@ -91,7 +91,7 @@ Think of it as what the Nintendo Virtual Console re-release of red & blue might 
 - Shiny animations will play in safari zone now
 - Redid the title screen a bit
 - Fixed a minor error that caused exp all to calculate incorrectly
-- Mew can only be encountered after getting the pokedex diploma
+- Mew can only be encountered after getting the pokedex diploma --> removed this functionality due to bugs
 
 
 #New features & adjustments from last version:
