@@ -40,23 +40,18 @@ ROMX $8
   "Music 2"
 
 ROMX $9
-  "Pics 1" ; PICS_1
   "Battle (bank 9)"
 
 ROMX $A
-  "Pics 2" ; PICS_2
   "Battle (bank A)"
 
 ROMX $B
-  "Pics 3" ; PICS_3
   "Battle (bank B)"
 
 ROMX $C
-  "Pics 4" ; PICS_4
   "Battle (bank C)"
 
 ROMX $D
-  "Pics 5" ; PICS_5
   "Battle (bank D)"
 
 ROMX $E
@@ -156,6 +151,30 @@ ROMX $2B
 ROMX $2C
   "Move Names" ; MOVE_NAMES
 
+ROMX $2D
+  "bank2D"
+
+ROMX $2E
+  "Pics 1" ; PICS_1
+
+ROMX $2F
+  "Pics 2" ; PICS_2
+  
+ROMX $30
+  "Pics 3" ; PICS_3
+  
+ROMX $31
+  "Pics 4" ; PICS_4
+  
+ROMX $32
+  "Pics 5" ; PICS_5
+
+ROMX $33
+  "Pics 6" ; PICS_6
+
+ROMX $34
+  "Pics 7" ; PICS_7
+  
 WRAM0
   "WRAM Bank 0"
 
